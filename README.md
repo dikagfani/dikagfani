@@ -63,11 +63,6 @@
 
 ###
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dikagfani" alt="WakaTime Stats" />
-</p>
-
-
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=satriabahari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=dikagfani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
