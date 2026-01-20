@@ -64,7 +64,5 @@
 ###
 
 <p align="center">
-  ### My WakaTime Stats 📊
-
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=dikagfani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dikagfani" alt="WakaTime Stats" />
 </p>
