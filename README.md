@@ -59,7 +59,6 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dikagfani&layout=compact&langs_count=8&theme=radical&cache_seconds=1800)
 </div>
 
 ###
@@ -67,3 +66,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dikagfani" alt="WakaTime Stats" />
 </div>
+
+  ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dikagfani&layout=compact&langs_count=8&theme=radical&cache_seconds=1800)
