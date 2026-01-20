@@ -70,3 +70,5 @@
   ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dikagfani&layout=compact&langs_count=8&theme=radical&cache_seconds=1800)
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dikagfani&layout=compact&langs_count=8&theme=radical&v=123)
+
+[![dikagfani's WakaTime stats](https://common-readme-stats.vercel.app/api/wakatime?username=dikagfani&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
